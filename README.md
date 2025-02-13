@@ -31,7 +31,7 @@ The dataset (`WineRatings.csv`) is included in this repository.
 1.  Clone the repository:
 
     ```
-    git clone [repository URL]
+    git clone https://github.com/sheetalp97/wine-rating-analysis
     cd wine-rating-analysis
     ```
 
